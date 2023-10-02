@@ -3,16 +3,17 @@
 body {
   text-align: center;
   background: #000;
+  font-family: 'Teko', sans-serif;
   color: #FFF;
 }
 
 div {
   background: #FFF;
   color: #000;
+  font-family: 'Teko', sans-serif;
   padding: 3rem;
   border-radius: 1rem;
   width: 300px;
   margin: 0 auto;
   font-weight: bold;
 }
-  
